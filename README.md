@@ -3,6 +3,8 @@
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![Simulation](https://img.shields.io/badge/Simulation-Icarus%20Verilog-green)
 
+![Simulation](simulation.png)
+![Synthesis](synthesis.png)
 
 
 ## Overview
