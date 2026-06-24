@@ -3,8 +3,8 @@
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![Simulation](https://img.shields.io/badge/Simulation-Icarus%20Verilog-green)
 
-![Simulation](simulation.png)
-![Synthesis](synthesis.png)
+
+
 
 
 ## Overview
@@ -130,6 +130,8 @@ Open the generated VCD file:
 gtkwave spi_system.vcd
 ```
 
+![Simulation](simulation.png)
+
 Useful signals to observe:
 
 ```text
@@ -211,6 +213,8 @@ Master receives:
 data_in = 0x5A
 rx_valid = 1
 ```
+
+![Synthesis](synthesis.png)
 
 ---
 
