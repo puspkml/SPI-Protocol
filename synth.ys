@@ -1,0 +1,7 @@
+read_verilog spi_master.v
+synth -top spi_master
+write_verilog spi_master_synth.v
+
+read_verilog spi_slave.v
+synth -top spi_slave
+write_verilog spi_slave_synth.v
